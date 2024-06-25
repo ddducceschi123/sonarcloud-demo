@@ -22,4 +22,12 @@ public class DemoRestController {
 		
 	}
 
+	private int m1() {
+		return 1;
+	}
+
+	private int m2() {
+		return 1;
+	}
+
 }
